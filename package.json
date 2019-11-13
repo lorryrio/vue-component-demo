@@ -1,7 +1,10 @@
 {
-  "name": "magic-page-component-test",
+  "name": "@magic-page/test-component",
   "version": "0.0.1",
   "description": "magic-page 测试组件",
+  "main": "lib/demo.umd.min.js",
+  "keyword": "magic-page component test",
+  "files": ["/lib"],
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
